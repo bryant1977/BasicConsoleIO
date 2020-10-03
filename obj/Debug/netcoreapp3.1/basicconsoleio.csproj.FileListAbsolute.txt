@@ -1,0 +1,13 @@
+C:\Users\Ebrahim\source\repos\basicconsoleio\obj\Debug\netcoreapp3.1\basicconsoleio.csprojAssemblyReference.cache
+C:\Users\Ebrahim\source\repos\basicconsoleio\obj\Debug\netcoreapp3.1\basicconsoleio.AssemblyInfoInputs.cache
+C:\Users\Ebrahim\source\repos\basicconsoleio\obj\Debug\netcoreapp3.1\basicconsoleio.AssemblyInfo.cs
+C:\Users\Ebrahim\source\repos\basicconsoleio\obj\Debug\netcoreapp3.1\basicconsoleio.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim\source\repos\basicconsoleio\bin\Debug\netcoreapp3.1\basicconsoleio.exe
+C:\Users\Ebrahim\source\repos\basicconsoleio\bin\Debug\netcoreapp3.1\basicconsoleio.deps.json
+C:\Users\Ebrahim\source\repos\basicconsoleio\bin\Debug\netcoreapp3.1\basicconsoleio.runtimeconfig.json
+C:\Users\Ebrahim\source\repos\basicconsoleio\bin\Debug\netcoreapp3.1\basicconsoleio.runtimeconfig.dev.json
+C:\Users\Ebrahim\source\repos\basicconsoleio\bin\Debug\netcoreapp3.1\basicconsoleio.dll
+C:\Users\Ebrahim\source\repos\basicconsoleio\bin\Debug\netcoreapp3.1\basicconsoleio.pdb
+C:\Users\Ebrahim\source\repos\basicconsoleio\obj\Debug\netcoreapp3.1\basicconsoleio.dll
+C:\Users\Ebrahim\source\repos\basicconsoleio\obj\Debug\netcoreapp3.1\basicconsoleio.pdb
+C:\Users\Ebrahim\source\repos\basicconsoleio\obj\Debug\netcoreapp3.1\basicconsoleio.genruntimeconfig.cache
